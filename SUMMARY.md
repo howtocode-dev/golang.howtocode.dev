@@ -9,6 +9,6 @@
 * [ইফ/এলস](if-else.md)
 * [সুইচ](switch.md)
 * [এ্যারে](array.md)
-* [স্লাইসিং](slicing.md)
+* [স্লাইসেস](slices.md)
 * [ম্যাপস](maps.md)
 
