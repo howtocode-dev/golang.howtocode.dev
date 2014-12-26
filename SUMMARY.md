@@ -1,6 +1,7 @@
 # Summary
 
-* [ শুরুর আগে](intro.md)
+* [পরিচিতি](README.md)
+* [শুরুর আগে](intro.md)
 * [হ্যালো গো](hello-go.md)
 * [ভ্যালুজ](values.md)
 * [ভ্যারিয়েবলস](variables.md)
