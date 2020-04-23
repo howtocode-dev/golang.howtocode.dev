@@ -34,6 +34,13 @@ func main() {
     f := "short"
     fmt.Println(f)
 }
+```
 
-
+আউটপুট:  
+```
+initial
+1 2
+true
+0
+short
 ```
