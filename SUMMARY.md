@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [পরিচিতি](README.md)
 * [শুরুর আগে](intro.md)
@@ -14,5 +14,5 @@
 * [ম্যাপস](maps.md)
 * [রেঞ্জ](range.md)
 * [ফাংশন](function.md)
-* [চলবে ...](#)
+* [চলবে ...](....md)
 
